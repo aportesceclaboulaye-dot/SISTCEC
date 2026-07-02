@@ -7,7 +7,7 @@ Stack: **Next.js** (Vercel) + **Supabase** (Postgres, Auth, RLS) + **GitHub** (r
 ## Estado actual
 
 ✅ Módulo 1: **Caja diaria** (ingresos/egresos, saldo del día, roles admin/caja)
-⏳ Próximos módulos: conciliación bancaria, vencimientos, cuotas, cheques
+⏳ Próximos módulos: conciliación bancaria, vencimientos, cuotas, chEques
 
 ## 1. Supabase
 
