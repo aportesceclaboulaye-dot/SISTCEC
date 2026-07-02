@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-ledger-line;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
